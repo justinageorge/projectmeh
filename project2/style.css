@@ -1,0 +1,121 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.navbar-nav{
+    margin-left:auto
+    
+}
+body{
+    font-family: sans-serif;
+}
+.nav-bar{
+    position:sticky;
+    top:0;
+    z-index:10;
+}
+.navbar{
+    background: rgb(136,25,168);
+background: linear-gradient(90deg, rgba(136,25,168,1) 0%, rgba(166,36,36,1) 0%);
+}
+.navbar-nav li {
+ padding:0 1px;
+}    
+.navbar-nav li a {
+    color:white;
+    font-weight:600;
+   }   
+#banner{
+    background: rgb(136,25,168);
+    background: linear-gradient(90deg, rgba(136,25,168,1) 0%, rgba(97,16,16,1) 0%);
+    padding-top:5%;
+    color:white;
+}    
+.promo-title{
+    font-size:40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.carousel{
+    background: rgb(136,25,168);
+background: linear-gradient(90deg, rgba(136,25,168,1) 0%, rgba(97,16,16,1) 0%);
+}
+.details{
+    font-size:40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+.container1{
+
+    background: rgb(136,25,168);
+    background: linear-gradient(90deg, rgba(136,25,168,1) 0%, rgba(97,16,16,1) 0%);
+    color:white }
+.bottom-img{
+    width:100%
+}
+.w{
+    margin-left: 10px;
+}
+.head{
+    margin-left: 10px;
+}
+#services{
+    background: rgb(249,246,225);
+    background: linear-gradient(90deg, rgba(249,246,225,1) 100%, rgba(74,70,60,0.9864320728291317) 100%);
+}
+.btn{
+    position:absolute;
+    right:50%;
+}
+.hello{
+    background: rgb(249,246,225);
+    background: linear-gradient(90deg, rgba(249,246,225,1) 100%, rgba(74,70,60,0.9864320728291317) 100%); 
+}
+.about-us{
+    padding-bottom: 50px;
+    padding-top: 40px;
+    background: rgb(136,25,168);
+    background: linear-gradient(90deg, rgba(136,25,168,1) 0%, rgba(97,16,16,1) 0%);
+    color:white }
+.footer{
+    background-color:bisque}
+.foot{
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+
+
+  .footer-col {
+    display: flex;
+    flex-direction: row;
+ /* This centers items horizontally within each column */
+  }
+  
+  .footer-col ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* This centers the text within the list */
+  }
+  
+  .social-media ul {
+    padding: 0;
+    display: flex;
+    justify-content: center; /* This centers the social media icons horizontally */
+  }
+  
+  .social-media li {
+    margin: 0 10px; /* Adjust the margin as needed */
+  }
+ .link{
+    text-decoration:none ;
+ }
+ .links a {
+    text-decoration: none;
+    margin: 0 15px 0 0; }
+.links{
+    background-color: bisque;
+}    
